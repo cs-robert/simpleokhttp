@@ -1,6 +1,11 @@
 # simpleokhttp
-Retrofit2Demo 说明：
-HTTPSTrustManager.java封装了https认证
-LoggingInterceptor.java是okhttp拦截器，可以设置通用header，打印log
-Okhttp3CookieManager.java、Okhttp3PersistentCookieStore.java、Okhttp3SerializableHttpCookie.java这三个类封装了okhttp3的cookie处理
-RTHttpClient2.java简单封装了Retrofit
+##RetrofitOkhttpUtil 说明:<br>
+###okhttputil库对okhttp3做了基本封装
+* HTTPSTrustManager.java封装了https认证<br>
+* LoggingInterceptor.java是okhttp拦截器，可以设置通用header，打印log<br>
+* Okhttp3CookieManager.java、Okhttp3PersistentCookieStore.java、Okhttp3SerializableHttpCookie.java这三个类封装了okhttp3的cookie处理<br>
+***
+###retrofitutil库对retrofit做了基本封装
+
+###App是简单的Demo应用
+
