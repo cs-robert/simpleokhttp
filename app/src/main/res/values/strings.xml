@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">httpUtil</string>
+    <string name="reqest">请求</string>
+    <string name="responsehint">请求返回信息</string>
+</resources>
