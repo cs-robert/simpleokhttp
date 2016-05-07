@@ -1,5 +1,5 @@
 # simpleokhttp
-##RetrofitOkhttpUtil 说明:<br>
+## 工程结构说明
 ###okhttputil库对okhttp3做了基本封装
 * HTTPSTrustManager.java封装了https认证<br>
 * LoggingInterceptor.java是okhttp拦截器，可以设置通用header，打印log<br>
